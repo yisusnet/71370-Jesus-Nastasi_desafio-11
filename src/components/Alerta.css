@@ -1,0 +1,42 @@
+.alerta-warning{
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    color: red;
+    width: 60%;
+}
+
+.alerta-success{
+background-color: green;
+display: flex;
+flex-direction: column;
+align-content: center;
+align-items: center;
+color: white;
+margin-left: 20px;
+margin-bottom: 20px;
+border: 1px solid black;
+width: 60%;
+
+}
+
+.alerta-error{
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    width: 60%;
+    
+
+
+    
+}
